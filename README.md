@@ -44,4 +44,4 @@ No inputs.
 
 No outputs.
 
-ronny test
+ronny test checkov
